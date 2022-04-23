@@ -3,10 +3,8 @@
 
 - 🌱 I’m currently learning **Django,**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrvjha&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
